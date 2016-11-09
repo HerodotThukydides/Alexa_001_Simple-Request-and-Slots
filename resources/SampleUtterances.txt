@@ -1,0 +1,10 @@
+Junge wie ist das lied
+Junge sag mir etwas über das lied
+Junge was ist das für ein lied
+Junge wie findest du das lied
+Junge magst du das lied
+
+Status was macht {PERSON} zur Zeit
+Status was macht {PERSON} gerade
+Status was macht {PERSON}
+Status sag mir was {PERSON} macht

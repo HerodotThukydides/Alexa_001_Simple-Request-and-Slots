@@ -1,0 +1,25 @@
+{
+    "intents": [
+        {
+            "intent": "AMAZON.ResumeIntent"
+        },
+        {
+            "intent": "AMAZON.PauseIntent"
+        },
+      	{
+            "intent": "AMAZON.HelpIntent"
+        },
+        {
+            "intent": "Junge"
+        },
+        {
+            "intent": "Status",
+          		"slots" : [
+                  {	"name" : "PERSON",
+                  	"type" : "NAMES"
+                  }
+                ]
+        }
+
+    ]
+}
